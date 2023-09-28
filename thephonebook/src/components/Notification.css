@@ -1,0 +1,14 @@
+.notification {
+    background-color: azure;
+    padding: 10px;
+}
+
+.success {
+    border: 1px solid green;
+    color: green;
+}
+
+.delete {
+    border: 1px solid red;
+    color: red;
+}
